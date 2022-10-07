@@ -2,7 +2,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotto2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jotto2)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/jotto2/count.svg" />
+</p>
+
 <!--
 **Jotto2/Jotto2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
